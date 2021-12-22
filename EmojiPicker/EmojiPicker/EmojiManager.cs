@@ -59,17 +59,26 @@ namespace EmojiPicker
 
         public List<string> getEmojiGroupIDs()
         {
-            return new ArrayList<>(emojiGroups.keySet());
+            return emojiGroups.Keys.ToList();
         }
 
         public void removeEmojiFromGroup(string groupID, Emoji emoji)
         {
-            throw new NotImplementedException();
+            if(!String.IsNullOrEmpty(groupID) && emoji != null)
+            {
+                var categoryEmojis = emojiGroups.GetValueOrDefault(groupID);
+                categoryEmojis.Remove(emoji);
+
+                emojiGroups.Add(groupID, categoryEmojis);
+            }
         }
 
         public void removeEmojiGroup(string groupID)
         {
-            throw new NotImplementedException();
+            if(String.IsNullOrEmpty(groupID))
+                emojiGroups.Remove(groupID);
         }
+
+
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\Sebastian\Desktop\Polibuda\PK_cwiczenia\EmojiPicker_winforms\EmojiPicker_winforms\EmojiPicker\EmojiPicker\obj\Debug\net5.0-windows\EmojiPicker.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\Polibuda\PK_cwiczenia\EmojiPicker_winforms\EmojiPicker_winforms\EmojiPicker\EmojiPicker\obj\Debug\net5.0-windows\EmojiPicker.EmojiPicker.resources
+C:\Users\Sebastian\Desktop\Polibuda\PK_cwiczenia\EmojiPicker_winforms\EmojiPicker_winforms\EmojiPicker\EmojiPicker\obj\Debug\net5.0-windows\EmojiPicker.csproj.GenerateResource.cache
+C:\Users\Sebastian\Desktop\Polibuda\PK_cwiczenia\EmojiPicker_winforms\EmojiPicker_winforms\EmojiPicker\EmojiPicker\obj\Debug\net5.0-windows\EmojiPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Desktop\Polibuda\PK_cwiczenia\EmojiPicker_winforms\EmojiPicker_winforms\EmojiPicker\EmojiPicker\obj\Debug\net5.0-windows\EmojiPicker.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Desktop\Polibuda\PK_cwiczenia\EmojiPicker_winforms\EmojiPicker_winforms\EmojiPicker\EmojiPicker\obj\Debug\net5.0-windows\EmojiPicker.AssemblyInfo.cs
+C:\Users\Sebastian\Desktop\Polibuda\PK_cwiczenia\EmojiPicker_winforms\EmojiPicker_winforms\EmojiPicker\EmojiPicker\obj\Debug\net5.0-windows\EmojiPicker.csproj.CoreCompileInputs.cache

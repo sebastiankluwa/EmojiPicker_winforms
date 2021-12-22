@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace EmojiPicker.Models
 {
-    public class Emoji
+    public class SerializedEmojiGroup
     {
-        public string qualifiedSequence { get; set; }
+        public string groupNameLine { get; set; }
+        public List<string> dataLines { get; set; } = new List<string>();
     }
 }

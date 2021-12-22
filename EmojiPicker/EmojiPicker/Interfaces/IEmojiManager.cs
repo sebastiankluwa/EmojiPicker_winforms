@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EmojiPicker.Interfaces
 {
-    interface IEmojiManager
+    public interface IEmojiManager
     {
         public List<Emoji> getAllEmojis();
         public List<Emoji> getEmojiGroup(String groupID);

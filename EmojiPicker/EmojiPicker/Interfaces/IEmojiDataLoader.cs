@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EmojiPicker
+namespace EmojiPicker.Interfaces
 {
-    class Models
+    public interface IEmojiDataLoader
     {
+        public void loadEmojiData(IEmojiManager emojiManager);
     }
 }
