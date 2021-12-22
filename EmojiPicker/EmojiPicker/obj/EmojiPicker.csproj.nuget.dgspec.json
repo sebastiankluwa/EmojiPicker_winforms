@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SebastianKluwa\\Desktop\\PK\\EmojiPicker\\EmojiPicker_winforms\\EmojiPicker\\EmojiPicker\\EmojiPicker.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SebastianKluwa\\Desktop\\PK\\EmojiPicker\\EmojiPicker_winforms\\EmojiPicker\\EmojiPicker\\EmojiPicker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SebastianKluwa\\Desktop\\PK\\EmojiPicker\\EmojiPicker_winforms\\EmojiPicker\\EmojiPicker\\EmojiPicker.csproj",
+        "projectName": "EmojiPicker",
+        "projectPath": "C:\\Users\\SebastianKluwa\\Desktop\\PK\\EmojiPicker\\EmojiPicker_winforms\\EmojiPicker\\EmojiPicker\\EmojiPicker.csproj",
+        "packagesPath": "C:\\Users\\SebastianKluwa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SebastianKluwa\\Desktop\\PK\\EmojiPicker\\EmojiPicker_winforms\\EmojiPicker\\EmojiPicker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SebastianKluwa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.150.0.99:85/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.carsys.online/api/v4/groups/228/-/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
